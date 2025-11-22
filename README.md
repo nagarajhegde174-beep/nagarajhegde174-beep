@@ -63,15 +63,16 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagarajhegde174@gmail.com) 
 <hr>
 
-### 📊 GitHub Stats
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nagarajhegde174-beep&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+## 📊 GitHub Stats:
 
-### 🔥 Streak Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=nagarajhegde174-beep&theme=dark&hide_border=false)
+<!-- Main Stats Card (matches your screenshot style) -->
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=nagarajhegde174-beep&cc=0d1117&tc=ffffff&ic=ffffff&bc=0d1117)
 
-### 📘 Top Languages
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nagarajhegde174-beep&theme=dark&hide_border=false&layout=compact)
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=nagarajhegde174-beep&theme=dark&hide_border=false)
 
+<!-- Most Used Languages -->
+![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=nagarajhegde174-beep&layout=compact&cc=0d1117&tc=ffffff&bc=0d1117)
 <hr>
 
 ### 🏆 GitHub Trophies
