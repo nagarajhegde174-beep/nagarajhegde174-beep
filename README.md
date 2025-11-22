@@ -13,6 +13,8 @@
 - 🧠 I love solving *coding challenges & real-world problems*
 - 🚀 Goal: Become a *Full-Stack Developer & Problem Solver*
 - 📝 I write code & upload my projects on GitHub regularly
+<hr>
+  
 
 
 
