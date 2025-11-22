@@ -7,7 +7,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I’m currently pursuing *Bachelor of Computer Applications (BCA)*
 - 💻 I’m passionate about *Python Development & Full-Stack Web*
 - 📚 I’m currently learning *DSA, Flask, and Frontend Technologies*
 - 🧠 I love solving *coding challenges & real-world problems*
