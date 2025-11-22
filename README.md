@@ -14,7 +14,7 @@
 - 🚀 Goal: Become a *Full-Stack Developer & Problem Solver*
 - 📝 I write code & upload my projects on GitHub regularly
 <hr>
-<h3 align="center">🛠 Tech Skills</h3>
+<h3>🛠 Tech Skills</h3>
 
 <div align="center">
 
