@@ -69,7 +69,7 @@
 <hr>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nagarajhegde174-beep&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nagarajhegde174-beep&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 <hr>
 
 ### 🔝 Top Contributed Repo
@@ -77,4 +77,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nagarajhegde174-beep&icon=0&color=0)](https://visitcount.itsvg.in)
 <hr>
+
+
+
+
+
+
+
 
