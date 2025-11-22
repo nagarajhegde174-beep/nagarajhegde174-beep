@@ -62,13 +62,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagaraj-hegde-25bbb2382/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagarajhegde174@gmail.com) 
 <hr>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nagarajhegde174&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nagarajhegde174&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajhegde174&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 📊 GitHub Stats
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nagarajhegde174&theme=dark&hide_border=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=nagarajhegde174&theme=dark)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nagarajhegde174&theme=dark&layout=compact)
 <hr>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nagarajhegde174&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nagarajhegde174&theme=radical)
 <hr>
 
 ### 🔝 Top Contributed Repo
