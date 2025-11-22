@@ -35,3 +35,23 @@
 
 </div>
 <hr>
+## 🧩 Featured Projects
+
+### 📌 Portfolio Website
+🔗 Live Demo: Coming Soon  
+🌟 Tech Used: HTML, CSS, JavaScript  
+[![Repo Badge](https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagarajhegde174-beep)
+
+---
+
+### 🧮 DSA Practice Problems
+🔗 I upload coding problem solutions regularly  
+💡 Includes: Arrays, Strings, Recursion, Searching & Sorting  
+[![Repo Badge](https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagarajhegde174-beep)
+
+---
+
+### 🧠 Python Mini Projects
+🧾 Small but useful real-life projects  
+🛠 Tech Used: Python + Libraries  
+[![Repo Badge](https://img.shields.io/badge/Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/nagarajhegde174-beep)
