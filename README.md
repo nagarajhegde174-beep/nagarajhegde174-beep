@@ -63,21 +63,13 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagarajhegde174@gmail.com) 
 <hr>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nagarajhegde174-beep&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nagarajhegde174-beep&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajhegde174-beep&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Main Stats Card -->
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=nagarajhegde174-beep&cc=0d1117&tc=ffffff&ic=ffffff&bc=0d1117)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=nagarajhegde174-beep&theme=dark&hide_border=false)
-
-<!-- Top Languages (Working Endpoint) -->
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nagarajhegde174-beep&theme=dark&layout=compact&hide_border=false)
-<hr>
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nagarajhegde174-beep&theme=radical)
-<hr>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nagarajhegde174-beep&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nagarajhegde174-beep&limit=5&theme=dark&combine_all_yearly_contributions=true)
