@@ -56,3 +56,16 @@
 🛠 Tech Used: Python + Libraries  
 [![Repo Badge](https://img.shields.io/badge/Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/nagarajhegde174-beep)
 <hr>
+## 🌐 Connected With Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nagraj_hegde_07?igsh=MTAzdDF3Z2h6eXlmaQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nagaraj-hegde-25bbb2382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagarajhegde174@gmail.com)
+<hr> 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nagarajhegde174-beep&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nagarajhegde174-beep&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajhegde174-beep&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<hr>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nagarajhegde174-beep&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<hr>
