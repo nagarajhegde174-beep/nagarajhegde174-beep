@@ -40,7 +40,7 @@
 ### 📌 Portfolio Website
 🔗 Live Demo: Coming Soon  
 🌟 Tech Used: HTML, CSS, JavaScript  
-[![Repo Badge](https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagarajhegde174-beep)
+[![Repo Badge](https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagarajhegde174-beep/portfolio.git)
 
 ---
 
