@@ -64,11 +64,14 @@
 <hr>
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nagarajhegde174-beep&theme=dark&hide_border=false)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nagarajhegde174-beep&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nagarajhegde174&theme=dark)
+### 🔥 Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=nagarajhegde174-beep&theme=dark&hide_border=false)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nagarajhegde174-beep&theme=dark&layout=compact)
+### 📘 Top Languages
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nagarajhegde174-beep&theme=dark&hide_border=false&layout=compact)
+
 <hr>
 
 ### 🏆 GitHub Trophies
