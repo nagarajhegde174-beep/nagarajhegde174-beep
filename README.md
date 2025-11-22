@@ -10,7 +10,7 @@
 - 💻 I’m passionate about *Python Development & Full-Stack Web*
 - 📚 I’m currently learning *DSA, Flask, and Frontend Technologies*
 - 🧠 I love solving *coding challenges & real-world problems*
-- 🚀 Goal: Become a *Full-Stack Developer & Problem Solver*
+- 🚀 Goal: Become a *Python Developer & Problem Solver*
 - 📝 I write code & upload my projects on GitHub regularly
 <hr>
 <h3>🛠 Tech Skills</h3>
