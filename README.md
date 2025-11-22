@@ -55,3 +55,4 @@
 🧾 Small but useful real-life projects  
 🛠 Tech Used: Python + Libraries  
 [![Repo Badge](https://img.shields.io/badge/Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/nagarajhegde174-beep)
+<hr>
