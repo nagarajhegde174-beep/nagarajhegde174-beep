@@ -70,10 +70,8 @@
 <hr>
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nagarajhegde174-beep&theme=monokai&no-frame=true&no-bg=true&margin-w=5)
-
+![GitHub Trophies](https://ghproxy.net/https://github-profile-trophy.vercel.app/?username=nagarajhegde174-beep&theme=radical)
 <hr>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nagarajhegde174-beep&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
