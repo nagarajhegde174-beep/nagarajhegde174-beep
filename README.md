@@ -64,15 +64,15 @@
 <hr>
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nagarajhegde174&theme=dark&hide_border=false)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nagarajhegde174-beep&theme=dark&hide_border=false)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nagarajhegde174&theme=dark)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nagarajhegde174&theme=dark&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nagarajhegde174-beep&theme=dark&layout=compact)
 <hr>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nagarajhegde174&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=nagarajhegde174-beep&theme=radical)
 <hr>
 
 ### 🔝 Top Contributed Repo
