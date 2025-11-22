@@ -34,3 +34,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45"/>
 
 </div>
+<hr>
