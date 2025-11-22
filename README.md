@@ -65,14 +65,14 @@
 
 ## 📊 GitHub Stats:
 
-<!-- Main Stats Card (matches your screenshot style) -->
+<!-- Main Stats Card -->
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=nagarajhegde174-beep&cc=0d1117&tc=ffffff&ic=ffffff&bc=0d1117)
 
 <!-- Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=nagarajhegde174-beep&theme=dark&hide_border=false)
 
-<!-- Most Used Languages -->
-![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=nagarajhegde174-beep&layout=compact&cc=0d1117&tc=ffffff&bc=0d1117)
+<!-- Top Languages (Working Endpoint) -->
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nagarajhegde174-beep&theme=dark&layout=compact&hide_border=false)
 <hr>
 
 ### 🏆 GitHub Trophies
