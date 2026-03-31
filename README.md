@@ -181,9 +181,6 @@ const nagaraj: Developer = {
 </p>
 
 <div align="center">
-
-*"Code is not just logic — it's the bridge between imagination and reality."*
-
 🔥 Building something ambitious? Let's collaborate
 
 [![Gmail](https://img.shields.io/badge/M-nagarajhegde174@gmail.com-black?style=for-the-badge&logoColor=white)](mailto:nagarajhegde174@gmail.com)
