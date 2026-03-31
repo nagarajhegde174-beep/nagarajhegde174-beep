@@ -192,6 +192,6 @@ const nagaraj: Developer = {
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nagarajhegde174-beep/nagarajhegde174-beep/main/footer-banner(1).svg" width="100%" alt="Footer"/>
+  <img src="https://raw.githubusercontent.com/nagarajhegde174-beep/nagarajhegde174-beep/main/footer-banner (1).svg" width="100%" alt="Footer"/>
 </p>
 
