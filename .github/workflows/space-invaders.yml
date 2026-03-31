@@ -1,27 +1,36 @@
-name: Generate Space Invaders
+name: Generate Space Invaders Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "0 */12 * * *"   # har 12 ghante mein auto update
+  workflow_dispatch:           # manual trigger bhi
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Run Space Invaders Generator
-        run: node .github/scripts/generate-space-invaders.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate Space Invaders SVG
         env:
-          GITHUB_USERNAME: nagarajhegde174-beep
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Ashwinjauhary
+        run: node .github/scripts/generate-space-invaders.js
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
