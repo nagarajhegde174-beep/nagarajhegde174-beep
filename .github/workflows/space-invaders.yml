@@ -26,7 +26,7 @@ jobs:
       - name: Generate Space Invaders SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: Ashwinjauhary
+          GITHUB_USERNAME: nagarajhegde174-beep
         run: node .github/scripts/generate-space-invaders.js
 
       - name: Deploy to output branch
