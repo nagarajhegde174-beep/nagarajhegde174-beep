@@ -17,7 +17,7 @@ jobs:
       - name: Run Space Invaders Generator
         run: node .github/scripts/generate-space-invaders.js
         env:
-          GITHUB_USERNAME: nagrajhegde834
+          GITHUB_USERNAME: nagarajhegde174-beep
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
