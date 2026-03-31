@@ -1,7 +1,7 @@
 const https = require('https');
 const fs = require('fs');
 
-const USERNAME = process.env.GITHUB_USERNAME || 'nagarajhegde174-beep';
+const USERNAME = process.env.GITHUB_USERNAME || 'nagarajhege174-beep';
 const TOKEN = process.env.GITHUB_TOKEN;
 
 const year = 2025;
@@ -49,13 +49,14 @@ function fetchContributions() {
   });
 }
 
+// Richer color palette — zero cells get a visible dim color
 function getColor(n) {
-  if (n === 0) return '#1a2332';
+  if (n === 0) return '#1a2332';   // dim blue-gray (visible, not plain black)
   if (n < 2)   return '#0d4a2a';
   if (n < 5)   return '#1a7a3a';
   if (n < 10)  return '#26c050';
   if (n < 20)  return '#39e85a';
-  return '#57ff7a';
+  return '#57ff7a';                // bright lime for heavy days
 }
 
 function getBorder(n) {
@@ -68,12 +69,14 @@ function generateSVG(weeksRaw) {
   const weeks = [...weeksRaw];
   console.log(`📅 Year: ${year} | Total weeks: ${weeks.length}`);
 
+  // Bigger cells for a bolder look
   const cs = 13, gap = 3, step = cs + gap;
   const cols = weeks.length, rows = 7;
   const pl = 24, pt = 80;
   const W = cols * step + pl * 2;
   const H = rows * step + pt + 28;
 
+  // Invader pixel art 11×8 (scaled up)
   const invPixels = [
     [0,0,1,0,0,0,0,0,1,0,0],
     [0,0,0,1,0,0,0,1,0,0,0],
@@ -84,7 +87,7 @@ function generateSVG(weeksRaw) {
     [1,0,1,0,0,0,0,0,1,0,1],
     [0,0,0,1,1,0,1,1,0,0,0],
   ];
-  const ps = 3;
+  const ps = 3; // bigger pixels for invader
   const iw = 11 * ps;
   const ih = 8  * ps;
   const invY = 5;
@@ -94,6 +97,7 @@ function generateSVG(weeksRaw) {
       px ? `<rect x="${rx*ps}" y="${ry*ps}" width="${ps}" height="${ps}"/>` : ''
     ).join('')).join('');
 
+  // All cells
   const cells = [];
   weeks.forEach((week, col) => {
     week.contributionDays.forEach((day, row) => {
@@ -109,6 +113,7 @@ function generateSVG(weeksRaw) {
   const totalDur = 45;
   console.log(`✅ Active cells: ${N}`);
 
+  // Grid — zero cells get visible dim style + subtle border
   const gridSVG = cells.map(cell => {
     const idx = active.indexOf(cell);
     const fill   = getColor(cell.count);
@@ -116,18 +121,21 @@ function generateSVG(weeksRaw) {
     const sw     = cell.count > 0 ? '0.5' : '0.3';
 
     if (idx === -1) {
+      // non-active: static dim cell
       return `<rect x="${cell.x}" y="${cell.y}" width="${cs}" height="${cs}" rx="3" fill="${fill}" stroke="${stroke}" stroke-width="${sw}"/>`;
     }
 
     const t0 = (idx / N).toFixed(5);
     const t1 = Math.min(idx / N + 0.015, 1).toFixed(5);
 
+    // Flash white on hit, then disappear
     return `<rect x="${cell.x}" y="${cell.y}" width="${cs}" height="${cs}" rx="3" fill="${fill}" stroke="${stroke}" stroke-width="${sw}">
       <animate attributeName="fill"    values="${fill};#ffffff;#1a2332;#1a2332" keyTimes="0;${t0};${t1};1" dur="${totalDur}s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;1;1;0.25"                     keyTimes="0;${t0};${t1};1" dur="${totalDur}s" repeatCount="indefinite"/>
     </rect>`;
   }).join('\n  ');
 
+  // Invader horizontal movement
   const invTranslates = active
     .map(c => `${c.x + Math.floor(cs/2) - Math.floor(iw/2)},${invY}`)
     .join(';');
@@ -135,6 +143,7 @@ function generateSVG(weeksRaw) {
     .map((_, i) => (N > 1 ? i/(N-1) : 0).toFixed(5))
     .join(';');
 
+  // Laser — longer, glowing
   const lasersSVG = active.map((cell, idx) => {
     const cx     = cell.x + Math.floor(cs/2);
     const yTop   = invY + ih + 2;
@@ -152,6 +161,7 @@ function generateSVG(weeksRaw) {
     </line>`;
   }).join('\n  ');
 
+  // Explosion sparks — bigger burst
   const sparksSVG = active.map((cell, idx) => {
     const cx   = cell.x + Math.floor(cs/2);
     const cy   = cell.y + Math.floor(cs/2);
@@ -172,11 +182,13 @@ function generateSVG(weeksRaw) {
     ).join('');
   }).join('\n');
 
+  // Scanline overlay for retro feel
   const scanlines = Array.from({length: Math.floor(H/4)}, (_, i) =>
     `<line x1="0" y1="${i*4}" x2="${W}" y2="${i*4}" stroke="#000000" stroke-width="0.4" opacity="0.15"/>`
   ).join('');
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
+  <!-- Background gradient -->
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%"   stop-color="#060c18"/>
@@ -189,6 +201,7 @@ function generateSVG(weeksRaw) {
   </defs>
   <rect width="${W}" height="${H}" fill="url(#bg)" rx="10"/>
 
+  <!-- Starfield -->
   ${Array.from({length:60},(_,i)=>{
     const sx=Math.floor((i*137.5+23)%W);
     const sy=Math.floor((i*79.3+11)%(pt-16))+4;
@@ -200,8 +213,10 @@ function generateSVG(weeksRaw) {
     </circle>`;
   }).join('')}
 
+  <!-- Contribution Grid -->
   ${gridSVG}
 
+  <!-- Space Invader (with glow) -->
   <g fill="#b06aff" filter="url(#glow)">
     <animateTransform attributeName="transform" type="translate"
       values="${invTranslates}" keyTimes="${invKeyTimes}"
@@ -209,12 +224,16 @@ function generateSVG(weeksRaw) {
     ${invaderShape}
   </g>
 
+  <!-- Lasers -->
   ${lasersSVG}
 
+  <!-- Sparks -->
   ${sparksSVG}
 
+  <!-- Scanlines -->
   ${scanlines}
 
+  <!-- Year label -->
   <text x="${W-pl}" y="${H-8}" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#9b5de5" opacity="0.8">${year} contributions</text>
 </svg>`;
 }
