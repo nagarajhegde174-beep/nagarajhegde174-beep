@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nagarajhegde174-beep/nagarajhegde174-beep/main/banner.svg" width="100%" alt="Banner"/>
-</p>
+</p> 
 
 ---
 
