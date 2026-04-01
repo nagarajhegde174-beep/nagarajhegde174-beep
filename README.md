@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nagarajhegde174-beep/nagarajhegde174-beep/main/banner.svg" width="100%" alt="Banner"/>
-</p> 
+  <img src="https://raw.githubusercontent.com/nagarajhegde174-beep/nagarajhegde174-beep/main/banner.png" width="100%" alt="Banner"/>
+</p>
 
 ---
 
@@ -193,5 +193,5 @@ const nagaraj: Developer = {
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nagarajhegde174-beep/nagarajhegde174-beep/main/footer-banner.svg" width="100%" alt="Footer"/>
-</p>
+  <img src="https://raw.githubusercontent.com/nagarajhegde174-beep/nagarajhegde174-beep/main/footer-banner.png" width="100%" alt="Footer"/>
+</p>>
