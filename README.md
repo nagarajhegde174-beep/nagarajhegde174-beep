@@ -52,13 +52,9 @@ const nagaraj: Developer = {
 
 ---
 
-## 👾 Space Invaders — Destroying My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nagarajhegde174-beep/nagarajhegde174-beep/output/space-invaders.svg" alt="Space Invaders eating contribution graph" />
-
-</div> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nagarajhegde174-beep/nagarajhegde174-beep/main/terminal-stats.svg" alt="Terminal Stats"/>
+</p>
 
 ---
 
