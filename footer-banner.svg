@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+  <rect width="1000" height="120" fill="#010c01"/>
+  <rect x="0" y="0" width="1000" height="1" fill="#00ff41" opacity="0.4"/>
+  <rect x="0" y="119" width="1000" height="1" fill="#00ff41" opacity="0.2"/>
+
+  <!-- Dark terminal background panels -->
+  <rect x="0" y="0" width="300" height="120" fill="#0a1a0a" opacity="0.9"/>
+  <rect x="700" y="0" width="300" height="120" fill="#0a1a0a" opacity="0.9"/>
+  <rect x="290" y="0" width="1" height="120" fill="#00ff41" opacity="0.08"/>
+  <rect x="710" y="0" width="1" height="120" fill="#00ff41" opacity="0.08"/>
+
+  <!-- LEFT terminal code -->
+  <text x="12" y="16"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.25">@SpringBootApplication</text>
+  <text x="12" y="28"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.2">@RestController</text>
+  <text x="12" y="40"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.25">public class NagarajApp {</text>
+  <text x="12" y="52"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.2">  @Bean String role() {</text>
+  <text x="12" y="64"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.25">    return "Java Dev";</text>
+  <text x="12" y="76"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.2">  }</text>
+  <text x="12" y="88"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.25">  @Bean List skills() {</text>
+  <text x="12" y="100" font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.2">    return List.of(</text>
+  <text x="12" y="112" font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.2">    "Spring","AI");</text>
+
+  <!-- LEFT terminal code column 2 -->
+  <text x="155" y="16"  font-family="Courier New, monospace" font-size="9" fill="#22c55e" opacity="0.18">// mantra:</text>
+  <text x="155" y="28"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.15">// Code.</text>
+  <text x="155" y="40"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.18">// Learn.</text>
+  <text x="155" y="52"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.15">// Build.</text>
+  <text x="155" y="64"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.18">// Repeat.</text>
+  <text x="155" y="76"  font-family="Courier New, monospace" font-size="9" fill="#22c55e" opacity="0.15">git push origin</text>
+  <text x="155" y="88"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.18">mvn clean install</text>
+  <text x="155" y="100" font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.15">docker build .</text>
+  <text x="155" y="112" font-family="Courier New, monospace" font-size="9" fill="#22c55e" opacity="0.18">curl /api/skills</text>
+
+  <!-- RIGHT terminal code -->
+  <text x="715" y="16"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.25">SELECT * FROM skills</text>
+  <text x="715" y="28"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.2">WHERE level='expert';</text>
+  <text x="715" y="40"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.25">INSERT INTO goals</text>
+  <text x="715" y="52"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.2">VALUES('AI Engineer');</text>
+  <text x="715" y="64"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.25">POST /api/build HTTP</text>
+  <text x="715" y="76"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.2">{ "status": "200 OK" }</text>
+  <text x="715" y="88"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.25">git commit -m "grind"</text>
+  <text x="715" y="100" font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.2">kubectl apply -f app</text>
+  <text x="715" y="112" font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.18">// never stop coding</text>
+
+  <!-- RIGHT terminal code column 2 -->
+  <text x="858" y="16"  font-family="Courier New, monospace" font-size="9" fill="#22c55e" opacity="0.18">LLM.generate(</text>
+  <text x="858" y="28"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.15">  prompt,token</text>
+  <text x="858" y="40"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.18">);</text>
+  <text x="858" y="52"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.15">RAG.retrieve(</text>
+  <text x="858" y="64"  font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.18">  vectorDB</text>
+  <text x="858" y="76"  font-family="Courier New, monospace" font-size="9" fill="#22c55e" opacity="0.15">);</text>
+  <text x="858" y="88"  font-family="Courier New, monospace" font-size="9" fill="#4ade80" opacity="0.18">JWT.sign(token)</text>
+  <text x="858" y="100" font-family="Courier New, monospace" font-size="9" fill="#00ff41" opacity="0.15">Spring.run(App)</text>
+  <text x="858" y="112" font-family="Courier New, monospace" font-size="9" fill="#22c55e" opacity="0.18">// 200 OK!</text>
+
+  <!-- Center dark overlay for text readability -->
+  <rect x="295" y="0" width="410" height="120" fill="#010c01" opacity="0.7"/>
+
+  <!-- Main text centered -->
+  <text x="500" y="55" text-anchor="middle"
+        font-family="Courier New, monospace"
+        font-size="26" font-weight="700"
+        fill="#00ff41">Code. Learn. Build. Repeat.</text>
+
+  <text x="500" y="82" text-anchor="middle"
+        font-family="Courier New, monospace"
+        font-size="13"
+        fill="#4ade80" opacity="0.85">// Keep pushing forward ~ nagarajhegde174-beep</text>
+</svg>
