@@ -61,7 +61,7 @@ const nagaraj: Developer = {
 ## 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgresql,mongodb,docker,kubernetes,aws,git,github,postman,vscode,idea,html,css,js,react,tailwind&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgresql,mongodb,docker,kubernetes,aws,git,github,postman,vscode,idea,html,css,js,react&perline=5" />
 </p>
 
 <p align="center">
@@ -86,6 +86,8 @@ const nagaraj: Developer = {
   <img src="https://img.shields.io/badge/Agentic%20AI-14B8A6?style=for-the-badge&logo=robotframework&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
