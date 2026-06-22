@@ -95,45 +95,15 @@ const nagaraj: Developer = {
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/nagarajhegde174-beep/Learning_Management_System">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Learning_Management_System&theme=radical&hide_border=true&show_owner=false" />
-  </a>
-
-  <a href="https://github.com/nagarajhegde174-beep/Library_Management">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Library_Management&theme=radical&hide_border=true&show_owner=false" />
-  </a>
-
-  <a href="https://github.com/nagarajhegde174-beep/wells-fargo-advisor-portal">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=wells-fargo-advisor-portal&theme=radical&hide_border=true&show_owner=false" />
-  </a>
+  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Learning_Management_System&theme=radical&hide_border=true"/>
+  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Library_Management&theme=radical&hide_border=true"/>
+  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=wells-fargo-advisor-portal&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nagarajhegde174-beep/Java_Framework">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Java_Framework&theme=radical&hide_border=true&show_owner=false" />
-  </a>
-
-  <a href="https://github.com/nagarajhegde174-beep/Java_Core">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Java_Core&theme=radical&hide_border=true&show_owner=false" />
-  </a>
-
-  <a href="https://github.com/nagarajhegde174-beep/E-Commerce">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=E-Commerce&theme=radical&hide_border=true&show_owner=false" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nagarajhegde174-beep/Spotify_Clone">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Spotify_Clone&theme=radical&hide_border=true&show_owner=false" />
-  </a>
-
-  <a href="https://github.com/nagarajhegde174-beep/Weather-app">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Weather-app&theme=radical&hide_border=true&show_owner=false" />
-  </a>
-
-  <a href="https://github.com/nagarajhegde174-beep/tic-tac-toe">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=tic-tac-toe&theme=radical&hide_border=true&show_owner=false" />
-  </a>
+  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=E-Commerce&theme=radical&hide_border=true"/>
+  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Spotify_Clone&theme=radical&hide_border=true"/>
+  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=tic-tac-toe&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
