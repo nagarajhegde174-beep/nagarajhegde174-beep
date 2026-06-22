@@ -93,27 +93,22 @@ const nagaraj: Developer = {
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Learning_Management_System&theme=radical&hide_border=true"/>
-  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Library_Management&theme=radical&hide_border=true"/>
-  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=wells-fargo-advisor-portal&theme=radical&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=E-Commerce&theme=radical&hide_border=true"/>
-  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Spotify_Clone&theme=radical&hide_border=true"/>
-  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=tic-tac-toe&theme=radical&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=jpmorgan-transaction-engine&theme=radical&hide_border=true&v=20260622"/>
-  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=walmart-data-structures-pipeline&theme=radical&hide_border=true&v=20260622"/>
-  <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Wheather-app&theme=radical&hide_border=true&v=20260622"/>
-</p>
 
-<p align="center">
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Learning_Management_System&theme=radical&hide_border=true"/> | <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Library_Management&theme=radical&hide_border=true"/> | <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=wells-fargo-advisor-portal&theme=radical&hide_border=true"/> |
+| <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=E-Commerce&theme=radical&hide_border=true"/> | <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Spotify_Clone&theme=radical&hide_border=true"/> | <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=tic-tac-toe&theme=radical&hide_border=true"/> |
+| <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=jpmorgan-transaction-engine&theme=radical&hide_border=true"/> | <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=walmart-data-structures-pipeline&theme=radical&hide_border=true"/> | <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Wheather-app&theme=radical&hide_border=true"/> |
+
+</div>
+
+<div align="center">
   <a href="https://github.com/nagarajhegde174-beep?tab=repositories">
     <img src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F" alt="All repos" />
   </a>
-</p>
+</div>
 
 ---
 
