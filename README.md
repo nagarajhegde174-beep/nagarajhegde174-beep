@@ -104,6 +104,7 @@ const nagaraj: Developer = {
   <a href="https://github.com/nagarajhegde174-beep/jpmorgan-transaction-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=jpmorgan-transaction-engine&theme=radical&hide_border=true"/></a>
   <a href="https://github.com/nagarajhegde174-beep/walmart-data-structures-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=walmart-data-structures-pipeline&theme=radical&hide_border=true"/></a>
   <a href="https://github.com/nagarajhegde174-beep/Wheather-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Wheather-app&theme=radical&hide_border=true"/></a>
+  <a href="https://github.com/nagarajhegde174-beep/Learning_Management_System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Learning_Management_System&theme=radical&hide_border=true"/></a>
 </div>
 
 <div align="center">
