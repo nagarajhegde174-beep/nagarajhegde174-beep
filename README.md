@@ -94,39 +94,51 @@ const nagaraj: Developer = {
 
 ## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/nagarajhegde174-beep/ai-resume-analyzer">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=ai-resume-analyzer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2" alt="AI Resume Analyzer" />
+<p align="center">
+  <a href="https://github.com/nagarajhegde174-beep/Learning_Management_System">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Learning_Management_System&theme=radical&hide_border=true&show_owner=false" />
   </a>
-  <a href="https://github.com/nagarajhegde174-beep/ai-chatbot">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=ai-chatbot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2" alt="AI Chatbot" />
+
+  <a href="https://github.com/nagarajhegde174-beep/Library_Management">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Library_Management&theme=radical&hide_border=true&show_owner=false" />
   </a>
-  <a href="https://github.com/nagarajhegde174-beep/ai-code-review-assistant">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=ai-code-review-assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2" alt="AI Code Review Assistant" />
+
+  <a href="https://github.com/nagarajhegde174-beep/wells-fargo-advisor-portal">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=wells-fargo-advisor-portal&theme=radical&hide_border=true&show_owner=false" />
   </a>
-  <a href="https://github.com/nagarajhegde174-beep/ai-voice-assistant">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=ai-voice-assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2" alt="AI Voice Assistant" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/nagarajhegde174-beep/Java_Framework">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Java_Framework&theme=radical&hide_border=true&show_owner=false" />
   </a>
-  <a href="https://github.com/nagarajhegde174-beep/autonomous-ai-agent">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=autonomous-ai-agent&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2" alt="Autonomous AI Agent" />
+
+  <a href="https://github.com/nagarajhegde174-beep/Java_Core">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Java_Core&theme=radical&hide_border=true&show_owner=false" />
   </a>
-  <a href="https://github.com/nagarajhegde174-beep/ecommerce-application">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=ecommerce-application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2" alt="E-Commerce Application" />
+
+  <a href="https://github.com/nagarajhegde174-beep/E-Commerce">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=E-Commerce&theme=radical&hide_border=true&show_owner=false" />
   </a>
-  <a href="https://github.com/nagarajhegde174-beep/portfolio-website">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=portfolio-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2" alt="Portfolio Website" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/nagarajhegde174-beep/Spotify_Clone">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Spotify_Clone&theme=radical&hide_border=true&show_owner=false" />
   </a>
-  <a href="https://github.com/nagarajhegde174-beep/pdf-chatbot-rag">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=pdf-chatbot-rag&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2" alt="PDF Chatbot RAG" />
+
+  <a href="https://github.com/nagarajhegde174-beep/Weather-app">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Weather-app&theme=radical&hide_border=true&show_owner=false" />
   </a>
-  <a href="https://github.com/nagarajhegde174-beep/movie-recommendation-system">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=movie-recommendation-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2" alt="Movie Recommendation System" />
+
+  <a href="https://github.com/nagarajhegde174-beep/tic-tac-toe">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=tic-tac-toe&theme=radical&hide_border=true&show_owner=false" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/nagarajhegde174-beep?tab=repositories">
-    <img src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F" alt="All repos"/>
+    <img src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F" alt="All repos" />
   </a>
 </p>
 
