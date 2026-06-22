@@ -94,7 +94,7 @@ const nagaraj: Developer = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="center"> 
 
 | | | |
 |:---:|:---:|:---:|
