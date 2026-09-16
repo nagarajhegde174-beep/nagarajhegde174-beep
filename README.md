@@ -120,35 +120,81 @@ public class Nagaraj_Hegde {
     </td>
   </tr>
 
-  <tr>
-    <td align="center" width="190">
-      <strong>🤖<br/>Generative AI</strong>
-    </td>
-    <td align="center" width="190">
-      <strong>🧠<br/>LLMs</strong>
-    </td>
-    <td align="center" width="190">
-      <strong>✍️<br/>Prompt Engineering</strong>
-    </td>
-    <td align="center" width="190">
-      <strong>🔎<br/>RAG</strong>
-    </td>
-    <td align="center" width="190">
-      <strong>🌱<br/>Spring AI</strong>
-    </td>
-    <td align="center" width="190">
-      <strong>🔗<br/>LangChain</strong>
-    </td>
-    <td align="center" width="190">
-      <strong>🧩<br/>LangGraph</strong>
-    </td>
-  </tr>
+ <tr>
+  <td align="center" width="190">
+    <img
+      src="https://www.svgrepo.com/download/235153/robot-artificial-intelligence.svg"
+      width="70"
+      height="70"
+      alt="Generative AI"
+    />
+  </td>
 
-  <tr>
-    <td align="center" width="190">
-      <strong>🤖<br/>Agentic AI</strong>
-    </td>
-  </tr>
+  <td align="center" width="190">
+    <img
+      src="https://cdn.simpleicons.org/openai"
+      width="65"
+      height="65"
+      alt="LLMs"
+    />
+  </td>
+
+  <td align="center" width="190">
+    <img
+      src="https://www.svgrepo.com/download/375061/prompt-edit.svg"
+      width="70"
+      height="70"
+      alt="Prompt Engineering"
+    />
+  </td>
+
+  <td align="center" width="190">
+    <img
+      src="https://www.svgrepo.com/download/287540/document-search.svg"
+      width="70"
+      height="70"
+      alt="RAG"
+    />
+  </td>
+
+  <td align="center" width="190">
+    <img
+      src="https://cdn.simpleicons.org/spring"
+      width="65"
+      height="65"
+      alt="Spring AI"
+    />
+  </td>
+
+  <td align="center" width="190">
+    <img
+      src="https://cdn.simpleicons.org/langchain"
+      width="65"
+      height="65"
+      alt="LangChain"
+    />
+  </td>
+
+  <td align="center" width="190">
+    <img
+      src="https://cdn.simpleicons.org/langgraph"
+      width="65"
+      height="65"
+      alt="LangGraph"
+    />
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="190">
+    <img
+      src="https://www.svgrepo.com/download/324470/robot-artificial-intelligence-ai.svg"
+      width="70"
+      height="70"
+      alt="Agentic AI"
+    />
+  </td>
+</tr>
 </table>
 
 ---
