@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Backend+Development;Spring+Security+%7C+JWT+%7C+Microservices+%7C+Kafka+%7C+Redis;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+AWS;Generative+AI+%7C+LLMs+%7C+Prompt+Engineering+%7C+RAG;Spring+AI+%7C+Vector+Databases+%7C+LangChain+%7C+LangGraph;AI+Agents+%7C+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Backend+Engineer;JPA+%7C+MySQL+%7C+PostgreSQL+%7C+Spring+Security+%7C+JWT;Microservices+%7C+Kafka+%7C+Redis+%7C+System+Design;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+AWS;Generative+AI+%7C+LLMs+%7C+Prompt+Engineering+%7C+RAG;Spring+AI+%7C+Vector+Databases+%7C+LangChain+%7C+LangGraph;AI+Agents+%7C+Agentic+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
