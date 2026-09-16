@@ -175,12 +175,6 @@ public class Nagaraj_Hegde {
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nagarajhegde174-beep/nagarajhegde174-beep/main/terminal-stats.svg" alt="Terminal Stats"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -201,48 +195,6 @@ public class Nagaraj_Hegde {
     <img src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F" alt="All repos" />
   </a>
 </div>
-
----
-
-## 📊 GitHub Stats & Activity
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nagarajhegde174-beep&theme=tokyonight&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="Streak Stats"/>
-</p>
-
----
-
-### 💻 GitHub Profile Stats
-<p align="center">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nagarajhegde174-beep&show_icons=true&theme=tokyonight&hide_border=true&title_color=F85D7F&icon_color=F8D866&bg_color=1F222E" alt="Profile Stats"/>
-  &nbsp;
-  <img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nagarajhegde174-beep&layout=compact&theme=tokyonight&hide_border=true&title_color=F85D7F&bg_color=1F222E" alt="Top Langs"/>
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nagarajhegde174-beep&bg_color=1F222E&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nagarajhegde174-beep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&v=2" alt="Trophies"/>
-</p>
-
----
-
-## 🏅 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nagarajhegde174-beep&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=1F222E&title_color=F85D7F" alt="Top Contributed Repos"/>
-</p>
 
 ---
 
