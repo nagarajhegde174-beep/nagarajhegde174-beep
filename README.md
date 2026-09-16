@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Backend+Developer;Spring+Security+%7C+JWT+%7C+Microservices;LLMs+%7C+RAG+%7C+Prompt+Engineering" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Backend+Development;Spring+Security+%7C+JWT+%7C+Microservices+%7C+Kafka+%7C+Redis;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+AWS;Generative+AI+%7C+LLMs+%7C+Prompt+Engineering+%7C+RAG;Spring+AI+%7C+Vector+Databases+%7C+LangChain+%7C+LangGraph;AI+Agents+%7C+Agentic+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,16 +15,31 @@
 ---
 
 ## 👨‍💻 About Me
-```ts
-const nagaraj: Developer = {
-  role     : "Java Backend Developer",
-  college  : "BCA Student @ Dr. A.V Baliga College, Kumta",
-  focus    : ["Spring Boot", "REST APIs", "Spring AI", "LLM APIs", "RAG Systems"],
-  skills   : ["Java", "OOP", "DSA", "Spring Security", "JWT", "Microservices"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  mantra   : "Build scalable systems. Solve real problems. Ship with impact.",
-  goal     : "Become an elite Java Backend & Spring Boot Developer"
-};
+
+```java
+public class Nagaraj_Hegde {
+
+    String role =
+        "Java Backend Developer";
+
+    String education =
+        "MCA Student @ Bangalore Institute of Technology";
+
+    String focus =
+        "Building scalable, reliable, and high-performance backend systems "
+        + "using Java, Spring Boot, Microservices, Kafka, Redis, Docker, and AWS, "
+        + "while integrating AI capabilities such as Generative AI, LLMs, RAG, and Spring AI "
+        + "into real-world applications";
+
+    String strengths =
+        "DSA, Problem Solving, OOP, and System Design";
+
+    String exploring =
+        "Generative AI, LLMs, RAG, Spring AI, LangChain, LangGraph, and Agentic AI";
+
+    String goal =
+        "Build my career as a Java Backend Engineer focused on developing AI-powered applications";
+}
 ```
 <br/>
 
