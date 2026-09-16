@@ -45,37 +45,48 @@ public class Nagaraj_Hegde {
 
 ---
 
-## 🧠 Tech Stack & Tools
+### Technologies 💻
+<table>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot"/></td>
+    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=hibernate" width="65" height="65" alt="Hibernate"/></td>
+    <td><img src="https://skillicons.dev/icons?i=maven" width="65" height="65" alt="Maven"/></td>
+    <td><img src="https://skillicons.dev/icons?i=gradle" width="65" height="65" alt="Gradle"/></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman"/></td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgresql,mongodb,docker,kubernetes,aws,git,github,postman,vscode,idea,html,css,js,react&perline=5" alt="skills" />
-</p>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL"/></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/></td>
+    <td><img src="https://skillicons.dev/icons?i=microservices" width="65" height="65" alt="Microservices"/></td>
+    <td><img src="https://skillicons.dev/icons?i=kafka" width="65" height="65" alt="Kafka"/></td>
+    <td><img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/></td>
+  </tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=consul&logoColor=white" alt="Microservices"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LLM%20APIs-FF6B9D?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG%20Systems-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Systems"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vector%20DB-9333EA?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DB"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Agentic%20AI-14B8A6?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agentic AI"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker"/></td>
+    <td><img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65" alt="Jenkins"/></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes"/></td>
+    <td><img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS"/></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux"/></td>
+    <td><img src="https://skillicons.dev/icons?i=intellijidea" width="65" height="65" alt="IntelliJ IDEA"/></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=ai" width="65" height="65" alt="Generative AI"/></td>
+    <td><img src="https://skillicons.dev/icons?i=openai" width="65" height="65" alt="LLMs"/></td>
+    <td><img src="https://skillicons.dev/icons?i=prompt" width="65" height="65" alt="Prompt Engineering"/></td>
+    <td><img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring AI"/></td>
+    <td><img src="https://skillicons.dev/icons?i=langchain" width="65" height="65" alt="LangChain"/></td>
+    <td><img src="https://skillicons.dev/icons?i=langgraph" width="65" height="65" alt="LangGraph"/></td>
+    <td><img src="https://skillicons.dev/icons?i=agent" width="65" height="65" alt="Agentic AI"/></td>
+  </tr>
+</table>
 
 ---
 
