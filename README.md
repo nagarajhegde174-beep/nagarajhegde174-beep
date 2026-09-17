@@ -147,54 +147,55 @@ public class Nagaraj_Hegde {
 
 ---
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
 <p align="left">
 
-<a href="https://github.com/nagarajhegde174-beep/AI-Chatbot">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=AI-Chatbot&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
-         alt="AI-Chatbot">
+  <a href="https://github.com/nagarajhegde174-beep/AI-Chatbot">
+    <img width="278"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=AI-Chatbot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2"
+      alt="AI-Chatbot"/>
   </a>
 
   <a href="https://github.com/nagarajhegde174-beep/URL-Shortner">
     <img width="278"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=URL-Shortner&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
-         alt="URL-Shortner">
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=URL-Shortner&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2"
+      alt="URL-Shortner"/>
   </a>
 
   <a href="https://github.com/nagarajhegde174-beep/Jpmorgan-transaction-engine">
     <img width="278"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Jpmorgan-transaction-engine&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
-         alt="JPMorgan Transaction Engine">
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Jpmorgan-transaction-engine&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2"
+      alt="JPMorgan Transaction Engine"/>
   </a>
 
   <a href="https://github.com/nagarajhegde174-beep/Walmart-data-structures-pipeline">
     <img width="278"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Walmart-data-structures-pipeline&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
-         alt="Walmart Data Structures Pipeline">
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Walmart-data-structures-pipeline&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2"
+      alt="Walmart Data Structures Pipeline"/>
   </a>
 
   <a href="https://github.com/nagarajhegde174-beep/Wells-fargo-advisor-portal">
     <img width="278"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Wells-fargo-advisor-portal&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
-         alt="Wells Fargo Advisor Portal">
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Wells-fargo-advisor-portal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2"
+      alt="Wells Fargo Advisor Portal"/>
   </a>
 
   <a href="https://github.com/nagarajhegde174-beep/HPE-employee-management-api">
     <img width="278"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=HPE-employee-management-api&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
-         alt="HPE Employee Management API">
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=HPE-employee-management-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&description_lines_count=2"
+      alt="HPE Employee Management API"/>
   </a>
-  
+
 </p>
-<br>
-<a href="https://github.com/nagarajhegde174-beep?tab=repositories">
-  <img
-    alt="All Repositories"
-    title="All Repositories"
-    src="https://custom-icon-badges.demolab.com/badge/-CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-1F222E?style=for-the-badge&logoColor=Teal&logo=repo"
-  />
-</a>
+
+<p align="center">
+  <a href="https://github.com/nagarajhegde174-beep?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F"
+      alt="Click Here For All My Repositories"/>
+  </a>
+</p>
 
 ---
 
