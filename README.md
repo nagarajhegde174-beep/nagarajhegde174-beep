@@ -147,7 +147,7 @@ public class Nagaraj_Hegde {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 <p align="left">
 
