@@ -189,7 +189,7 @@ public class Nagaraj_Hegde {
 
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/nagarajhegde174-beep?tab=repositories">
     <img
       src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F"
