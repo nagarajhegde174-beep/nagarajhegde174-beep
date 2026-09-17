@@ -23,7 +23,7 @@ public class Nagaraj_Hegde {
         "Java Backend Developer";
 
     String education =
-        "MCA Student @ Bangalore Institute of Technology";
+       "Pursuing Higher Education @ Bangalore Institute of Technology";
 
     String focus =
         "Building scalable, reliable, and high-performance backend systems "
