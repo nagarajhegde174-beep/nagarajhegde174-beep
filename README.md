@@ -45,7 +45,7 @@ public class Nagaraj_Hegde {
 
 ---
 
-### Technologies 💻
+### Backend Technologies 💻
 
 <table>
   <tr>
@@ -120,6 +120,30 @@ public class Nagaraj_Hegde {
     </td>
   </tr>
 </table>
+
+---
+
+### AI Technologies 🤖
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+
+  <img src="https://img.shields.io/badge/LLMs-5A67D8?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering"/>
+
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
+
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"/>
+
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+
+  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agentic AI"/>
+
+</p>
 
 ---
 
