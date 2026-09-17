@@ -211,6 +211,8 @@ public class Nagaraj_Hegde {
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
 
+---
+
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
@@ -221,13 +223,13 @@ public class Nagaraj_Hegde {
 
 ---
 
+## 🏗️ Contributions (3D View)
 <p align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/nagarajhegde174-beep/nagarajhegde174-beep@output/profile-3d-contrib/profile-night-rainbow.svg"
     alt="3D Contribution Graph"
   />
 </p>
-
 
 ---
 
