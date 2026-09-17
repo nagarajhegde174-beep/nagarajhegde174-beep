@@ -20,7 +20,7 @@
 public class Nagaraj_Hegde {
 
     String role =
-        "Java Backend Developer";
+        "Java Backend Engineer";
 
     String education =
        "Pursuing Higher Education @ Bangalore Institute of Technology";
