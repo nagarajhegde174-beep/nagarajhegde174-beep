@@ -199,6 +199,18 @@ public class Nagaraj_Hegde {
 
 ---
 
+<h2 align="left">📊 GitHub Stats & Commits</h2>
+
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagarajhegde174-beep&theme=dracula" width="49%"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nagarajhegde174-beep&theme=nightowl" width="49%"/>
+
+</p>
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="center">
