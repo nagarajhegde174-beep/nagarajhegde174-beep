@@ -199,21 +199,25 @@ public class Nagaraj_Hegde {
 
 ---
 
-<h2 align="left">📊 GitHub Stats & Contributions</h2>
+## 📊 GitHub Stats & Contributions
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagarajhegde174-beep&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nagarajhegde174-beep&theme=tokyonight" width="49%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagarajhegde174-beep&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagarajhegde174-beep&theme=tokyonight" width="49%"/>
-</p>
+<a href="https://github.com/nagarajhegde174-beep">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagarajhegde174-beep&theme=tokyonight" width="98%"/>
-</p>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
+
+</a>
+
+</div>
 
 ---
 
