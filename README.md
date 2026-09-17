@@ -151,8 +151,8 @@ public class Nagaraj_Hegde {
 
 <p align="left">
 
- <a href="https://github.com/nagarajhegde174-beep/AI-Chatbot">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=AI-Chatbot&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+<a href="https://github.com/nagarajhegde174-beep/AI-Chatbot">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=AI-Chatbot&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
          alt="AI-Chatbot">
   </a>
 
