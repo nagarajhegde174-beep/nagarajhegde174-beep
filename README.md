@@ -199,7 +199,7 @@ public class Nagaraj_Hegde {
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -233,25 +233,7 @@ public class Nagaraj_Hegde {
 
 ---
 
-## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
-    <img src="https://img.icons8.com/ios-filled/50/ff1493/linkedin.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:nagarajhegde174@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ff1493" height="45" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/NagarajHeg54130">
-    <img src="https://cdn.simpleicons.org/x/ff1493" height="45" alt="X"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nagraj_hegde_07">
-    <img src="https://cdn.simpleicons.org/instagram/ff1493" height="45" alt="Instagram"/>
-  </a>
-</p>
 
 ---
 
