@@ -213,29 +213,6 @@ public class Nagaraj_Hegde {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/nagarajhegde174-beep/deloitte-etl-solution"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=deloitte-etl-solution&theme=radical&hide_border=true"/></a>
-  <a href="https://github.com/nagarajhegde174-beep/Library_Management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Library_Management&theme=radical&hide_border=true"/></a>
-  <a href="https://github.com/nagarajhegde174-beep/wells-fargo-advisor-portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=wells-fargo-advisor-portal&theme=radical&hide_border=true"/></a>
-  <a href="https://github.com/nagarajhegde174-beep/E-Commerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=E-Commerce&theme=radical&hide_border=true"/></a>
-  <a href="https://github.com/nagarajhegde174-beep/Spotify_Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Spotify_Clone&theme=radical&hide_border=true"/></a>
-  <a href="https://github.com/nagarajhegde174-beep/tic-tac-toe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=tic-tac-toe&theme=radical&hide_border=true"/></a>
-  <a href="https://github.com/nagarajhegde174-beep/jpmorgan-transaction-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=jpmorgan-transaction-engine&theme=radical&hide_border=true"/></a>
-  <a href="https://github.com/nagarajhegde174-beep/walmart-data-structures-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=walmart-data-structures-pipeline&theme=radical&hide_border=true"/></a>
-  <a href="https://github.com/nagarajhegde174-beep/Wheather-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Wheather-app&theme=radical&hide_border=true"/></a>
-  <a href="https://github.com/nagarajhegde174-beep/Learning_Management_System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Learning_Management_System&theme=radical&hide_border=true"/></a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/nagarajhegde174-beep?tab=repositories">
-    <img src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-1F222E?style=for-the-badge&logo=github&logoColor=F85D7F" alt="All repos" />
-  </a>
-</div>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Matrix Code"/>
 </p>
