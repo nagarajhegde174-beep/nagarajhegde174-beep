@@ -147,6 +147,50 @@ public class Nagaraj_Hegde {
 
 ---
 
+## 🚀 My Projects
+
+<p align="left">
+
+  <a href="https://github.com/nagarajhegde174-beep/AI-Chatbot">
+    <img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=AI-Chatbot&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+         alt="AI-Chatbot">
+  </a>
+
+  <a href="https://github.com/nagarajhegde174-beep/URL-Shortner">
+    <img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=URL-Shortner&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+         alt="URL-Shortner">
+  </a>
+
+  <a href="https://github.com/nagarajhegde174-beep/Jpmorgan-transaction-engine">
+    <img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Jpmorgan-transaction-engine&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+         alt="JPMorgan Transaction Engine">
+  </a>
+
+  <a href="https://github.com/nagarajhegde174-beep/Walmart-data-structures-pipeline">
+    <img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Walmart-data-structures-pipeline&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+         alt="Walmart Data Structures Pipeline">
+  </a>
+
+  <a href="https://github.com/nagarajhegde174-beep/Wells-fargo-advisor-portal">
+    <img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=Wells-fargo-advisor-portal&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+         alt="Wells Fargo Advisor Portal">
+  </a>
+
+  <a href="https://github.com/nagarajhegde174-beep/HPE-employee-management-api">
+    <img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=HPE-employee-management-api&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+         alt="HPE Employee Management API">
+  </a>
+
+</p>
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="center">
