@@ -233,38 +233,29 @@ public class Nagaraj_Hegde {
 
 ---
 
-
-<h2 align="center">🤝 Connect With Me</h2>
-
+<h2 align="left">🤝 Connect With Me</h2>
 <table width="240" align="center">
-  <tr>
-
-    <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
-        <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="60" width="65" alt="LinkedIn">
-      </a>
-    </td>
-
-    <td align="center" width="60">
-      <a href="https://x.com/NagarajHeg54130">
-        <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60" alt="Twitter/X">
-      </a>
-    </td>
-
-    <td align="center" width="60">
-      <a href="mailto:nagarajhegde174@gmail.com">
-        <img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80" alt="Email">
-      </a>
-    </td>
-
-    <td align="center" width="60">
-      <img src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" height="60" width="65" alt="Discord">
-    </td>
-
-  </tr>
+<tr>
+<td align="center" width="60">
+<a href="https://www.linkedin.com/in/nagaraj-hegde-25bbb2382">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="60" width="65" alt="LinkedIn">
+</a>
+</td>
+<td align="center" width="60">
+<a href="https://x.com/NagarajHeg54130">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60" alt="Twitter/X">
+</a>
+</td>
+<td align="center" width="60">
+<a href="mailto:nagarajhegde174@gmail.com">
+<img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80" alt="Email">
+</a>
+</td>
+<td align="center" width="60">
+<img src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" height="60" width="65" alt="Discord">
+</td>
+</tr>
 </table>
-
-
 
 ---
 
