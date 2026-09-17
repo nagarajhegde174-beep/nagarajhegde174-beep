@@ -147,7 +147,7 @@ public class Nagaraj_Hegde {
 
 ---
 
-## 🚀 My Projects
+## 🚀 Top Contributed Repositories
 
 <p align="left">
 
