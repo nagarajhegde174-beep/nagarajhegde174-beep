@@ -233,7 +233,8 @@ public class Nagaraj_Hegde {
 
 ---
 
-<h2 align="left">🤝 Connect With Me</h2>
+
+<h2 align="center">🤝 Connect With Me</h2>
 
 <table width="240" align="center">
   <tr>
@@ -262,6 +263,8 @@ public class Nagaraj_Hegde {
 
   </tr>
 </table>
+
+
 
 ---
 
