@@ -265,16 +265,6 @@ public class Nagaraj_Hegde {
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Matrix Code"/>
 </p>
 
-<div align="center">
-  
-🔥 Building something ambitious? Let's collaborate
-
-
-[![Gmail](https://img.shields.io/badge/M-nagarajhegde174@gmail.com-black?style=for-the-badge&logoColor=white)](mailto:nagarajhegde174@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-black?style=for-the-badge)](https://www.linkedin.com/in/nagaraj-hegde-25bbb2382)
-
-</div>
-
 ---
 
 <p align="center">
