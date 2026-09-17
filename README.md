@@ -209,11 +209,13 @@ public class Nagaraj_Hegde {
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
-
 ---
 
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
+
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
+
+---
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagarajhegde174-beep&theme=tokyonight" height="180em" />
 
