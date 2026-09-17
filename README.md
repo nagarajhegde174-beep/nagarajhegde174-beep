@@ -147,7 +147,7 @@ public class Nagaraj_Hegde {
 
 ---
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
 <p align="left">
 
@@ -188,6 +188,16 @@ public class Nagaraj_Hegde {
   </a>
 
 </p>
+
+<br>
+
+<a href="https://github.com/nagarajhegde174-beep?tab=repositories">
+  <img
+    alt="All Repositories"
+    title="All Repositories"
+    src="https://custom-icon-badges.demolab.com/badge/-CLICK%20HERE%20FOR%20ALL%20MY%20REPOS-1F222E?style=for-the-badge&logoColor=Teal&logo=repo"
+  />
+</a>
 
 ---
 
