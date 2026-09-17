@@ -86,7 +86,7 @@ public class Nagaraj_Hegde {
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70"/>
     </td>
     <td align="center" width="190">
-      <img src="https://skillicons.dev/icons?i=microservices" width="65" height="65" alt="Microservices"/>
+    <img src="microservices.svg" width="65" height="65" alt="Microservices"/>
     </td>
     <td align="center" width="190">
       <img src="https://skillicons.dev/icons?i=kafka" width="65" height="65" alt="Kafka"/>
