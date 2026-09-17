@@ -221,6 +221,16 @@ public class Nagaraj_Hegde {
 
 ---
 
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/nagarajhegde174-beep/nagarajhegde174-beep@output/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D Contribution Graph"
+  />
+</p>
+
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="center">
