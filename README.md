@@ -186,11 +186,9 @@ public class Nagaraj_Hegde {
          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nagarajhegde174-beep&repo=HPE-employee-management-api&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
          alt="HPE Employee Management API">
   </a>
-
+  
 </p>
-
 <br>
-
 <a href="https://github.com/nagarajhegde174-beep?tab=repositories">
   <img
     alt="All Repositories"
