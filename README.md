@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 ```java
-public class Nagaraj_Hegde {
+public class Nagaraj {
 
     String role =
         "Java Backend Engineer";
