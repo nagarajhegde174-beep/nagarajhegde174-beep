@@ -38,7 +38,8 @@ public class Nagaraj_Hegde {
         "Generative AI, LLMs, RAG, Spring AI, LangChain, LangGraph, and Agentic AI";
 
     String goal =
-        "Build my career as a Java Backend Engineer and AI Backend Engineer " + "focused on building AI-powered applications";
+        "Build my career as a Java Backend Engineer and AI Backend Engineer "
+        + "focused on building AI-powered applications";
 }
 ```
 <br/>
